@@ -1,0 +1,9 @@
+﻿  UnitTest1.cpp
+C:\Student\PR9.3\PR9.3\PR9.3.cpp(30,11): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\Student\PR9.3\PR9.3\PR9.3.cpp(31,11): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\Student\PR9.3\PR9.3\PR9.3.cpp(32,11): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\Student\PR9.3\PR9.3\PR9.3.cpp(40,10): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+C:\Student\PR9.3\PR9.3\PR9.3.cpp(159,6): warning C4101: 'ispecurs': unreferenced local variable
+C:\Student\PR9.3\PR9.3\PR9.3.cpp(160,6): warning C4101: 'found': unreferenced local variable
+C:\Student\PR9.3\PR9.3\PR9.3.cpp(161,6): warning C4101: 'isspec': unreferenced local variable
+  UnitTest1.vcxproj -> C:\Student\PR9.3\x64\Debug\UnitTest1.dll
